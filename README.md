@@ -1,7 +1,7 @@
 - 👋 Hi, I’m @SeanRomelo
-- 👀 I’m interested in software engineering and Web development
-- 🌱 I’m currently learning html, css and javascript for front end as well python programming language
-- 💞️ I’m looking to collaborate on Web development projects
+- 👀 I’m interested in software engineering and Data Science
+- 🌱 I’m currently learning the python programming language
+- 💞️ I’m looking to collaborate on interesting projects for data science 
 - 📫 How to reach me ...email: seanromelo@gmail.com 
 
 <!---
